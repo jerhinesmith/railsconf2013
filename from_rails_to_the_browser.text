@@ -1,4 +1,5 @@
 From Rails to the Web Server to the Browser
+@dabit
 
 - Life of a request
 - Starts in browser, turns into http request
@@ -20,3 +21,5 @@ From Rails to the Web Server to the Browser
 
 - All Rails apps are Rack apps
   - Can start a rails app with rackup
+
+dabit/rails-server-browser
