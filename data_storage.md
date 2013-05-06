@@ -23,3 +23,5 @@ Data Storage
   - Datomic
 
 - Fault Tolerance
+
+- Basically, this: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis
