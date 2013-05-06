@@ -17,7 +17,7 @@ From Rails to the Web Server to the Browser
 
 - Requires config.ru
 
-# What is this?  $: << '.'
+- Sidenote: Look up `$: << '.'`
 
 - All Rails apps are Rack apps
   - Can start a rails app with rackup
